@@ -15,5 +15,6 @@ Connect to the database using the following credentials: root and root. Download
 ![img_1.png](img_1.png)
 
 Check the connection and then apply if the connection is successful.
+![img_2.png](img_2.png)
 
 Right click on the database and click on new -> Query Console. Copy paste the sql scripts from resources. First create.sql and then insert.sql.
