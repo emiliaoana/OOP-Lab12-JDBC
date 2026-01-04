@@ -10,8 +10,11 @@ docker-compose up
 ```
 
 Connect to the database from Intellij:
+
 ![img.png](img.png)
+
 Connect to the database using the following credentials: root and root. Download the drivers if needed.
+
 ![img_1.png](img_1.png)
 
 Check the connection and then apply if the connection is successful.
