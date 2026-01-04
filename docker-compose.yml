@@ -5,10 +5,10 @@ services:
     image: mariadb:11
     container_name: mariadb
     environment:
-      MARIADB_ROOT_PASSWORD: oop
-      MARIADB_DATABASE: oop
-      MARIADB_USER: admin
-      MARIADB_PASSWORD: admin
+      MARIADB_ROOT_PASSWORD: root
+      MARIADB_DATABASE: root
+      MARIADB_USER: root
+      MARIADB_PASSWORD: root
     ports:
       - "3306:3306"
     volumes:
